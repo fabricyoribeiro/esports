@@ -1,0 +1,10 @@
+npm init -y
+npm install express
+npm i typescript -D
+npx tsc --init (configura a conversao abaixo)
+vai em ts.config e muda o module para ES2020
+node src/server.js
+npm run build (converte typescript em js)
+node src/server.js
+
+
