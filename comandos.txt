@@ -7,4 +7,20 @@ node src/server.js
 npm run build (converte typescript em js)
 node src/server.js
 
+npm i @types/express -D
+npm i ts-node-dev -D
+
+sai da pasta de server e executa:
+npm create vite@latest
+
+configura a pasta web com typescript
+
+executa na pasta web:
+npm install
+
+começa parte mobile
+
+npm install --global expo-cli
+
+expo init mobile
 
