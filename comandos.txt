@@ -18,9 +18,18 @@ configura a pasta web com typescript
 executa na pasta web:
 npm install
 
+npm run dev (start aplicaçaõ web)
+
 começa parte mobile
 
 npm install --global expo-cli
 
 expo init mobile
 
+web:
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+npm i phosphor-react
