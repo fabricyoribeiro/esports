@@ -33,3 +33,9 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 npm i phosphor-react
+
+npx expo install expo-font @expo-google-fonts/inter
+
+expo install react-native-safe-area-context
+
+expo install expo-linear-gradient
