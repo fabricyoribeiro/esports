@@ -39,3 +39,13 @@ npx expo install expo-font @expo-google-fonts/inter
 expo install react-native-safe-area-context
 
 expo install expo-linear-gradient
+
+npm i prisma -D
+
+npx prisma init -h (ver documentação)
+
+npx primsma migrate dev
+
+npx prisma studio
+
+npm i @prisma/client (acessar o banco)
