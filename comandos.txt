@@ -53,3 +53,11 @@ npm i @prisma/client (acessar o banco)
 npm i cors
 
 npm i @types/cors -D
+
+npm install @radix-ui/react-dialog
+
+npm install @react-navigation/native
+
+expo install react-native-screens
+
+npm install @react-navigation/native-stack
