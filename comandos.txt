@@ -61,3 +61,21 @@ npm install @react-navigation/native
 expo install react-native-screens
 
 npm install @react-navigation/native-stack
+
+mobile
+npm install --save phosphor-react-native
+
+npx expo install react-native-svg
+
+web 
+npm install @radix-ui/react-checkbox
+
+npm install @radix-ui/react-select
+
+npm un @radix-ui/react-select' (desinstalar)
+
+npm install @radix-ui/react-toggle-group
+
+npm i axios
+
+https://keen-slider.io/ (fazer carrosel)
